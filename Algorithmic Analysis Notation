@@ -1,0 +1,5 @@
+O(f(n)): Worst-case upper bound (algorithm won't take more time than this).
+Ω(f(n)): Best-case lower bound (algorithm will take at least this much time).
+Θ(f(n)): Exact bound (algorithm will take roughly this time, both lower and upper).
+o(f(n)): Strictly less than the upper bound (algorithm grows slower than this).
+ω(f(n)): Strictly more than the lower bound (algorithm grows faster than this).
