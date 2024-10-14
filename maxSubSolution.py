@@ -1,4 +1,5 @@
-# Implementation of a max-subarray solution using cpp 
+# Implementation of a max-subarray solution using python 
+# From 4.1-3
 
 import math
 
